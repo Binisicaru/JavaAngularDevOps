@@ -11,6 +11,7 @@ public class BasicApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("Cargando contexto de prueba");
+		//Agregando segunda línea de prueba
 	}
 
 }
